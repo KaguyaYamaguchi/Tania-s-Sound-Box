@@ -2,6 +2,22 @@
 
 A Linux sound-control project derived from FxSound. Initial target: **Linux Mint
 22.3 Zena, Xfce edition, x86_64**. PipeWire is the Linux audio backend.
+Tania's Sound Box is part of **The Templar**.
+
+## Support the software
+
+Tania's Sound Box is available free and open source. If you would like to support
+The Templar and continued development, you can donate or buy the package installer:
+
+- [Donate through PayPal](https://www.paypal.com/donate/?hosted_button_id=UQB5DZ5KDB9YC)
+- [Buy the Linux installer on itch.io](https://kaguya-yamaguchi.itch.io/tanias-sound-boxsoftware-for-linux)
+
+Pay once and keep your downloaded version: no subscription, activation or expiry.
+The paid installer provides the same app available free; supporting it is optional.
+
+Scan the QR code below to donate through PayPal, or click it to open the donation page:
+
+[![PayPal donation QR code for The Templar](docs/assets/donation-qr.png)](https://www.paypal.com/donate/?hosted_button_id=UQB5DZ5KDB9YC)
 
 ## Current status
 
